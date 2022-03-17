@@ -40,7 +40,7 @@ function auth(req, res){
 
 function registro(req, res){
     if(req.session.loggedin != true){
-        res.render('login/register');
+        res.render('login/registro');
     }else{
         res.redirect('/')
     }
