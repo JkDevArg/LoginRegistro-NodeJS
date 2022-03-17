@@ -34,3 +34,5 @@ npm run dev
 ```
   http://localhost:9000/login
 ```
+### User: admin@admin.com
+### Pass: admin
